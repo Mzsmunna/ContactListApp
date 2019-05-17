@@ -1,0 +1,5 @@
+1. Full frame cover JPanel with BorderLayout for Call need to be added!
+2. Except Searchbox full frame cover JPanel for search result need to be added!
+3. Full frame cover JPanel with BorderLayout for Msg need to be added!(Might need 3 jpanel inside the panel to do this!)
+4. Edit Contact Full Screen JPanel need to be added on selecting the particular contact!
+5. Bunch of Action Listeners and Inner code need to be added!
